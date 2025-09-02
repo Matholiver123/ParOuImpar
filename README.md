@@ -1,7 +1,7 @@
-Par ou Impar Com Placar
+## Par ou Impar Com Placar
 Um jogo de Par ou Impar em Java, com registro de vitórias e derrotas.
 
-Como jogar
+## Como jogar
 Execute o programa.
 Escolha entre Par ou Impar.
 O computador também fará a escolha aleatoriamente.
